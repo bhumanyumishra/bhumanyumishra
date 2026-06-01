@@ -58,7 +58,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhumanyumishra\&show_icons=true)
+Currently building projects and preparing for placements.
 
 ---
 
